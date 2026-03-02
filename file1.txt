@@ -1,1 +1,2 @@
 This is file1 
+We are learning git today as well
